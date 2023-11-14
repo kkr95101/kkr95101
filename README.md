@@ -13,7 +13,12 @@
 상어가 앞으로 나아가지 않으면 죽는 것처럼, 저 또한 항상 새로운 도전을 통해 성장하고 발전할 것입니다. 마음가짐을 가지고 여러 기술들을 익히고 앞으로 나아가겠습니다.
 
 ### 🛠️ 기술 스택
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 - Java
 - Spring Framework
 - 데이터베이스 (ORACLE)
