@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20%EA%B2%BD%EB%A1%9D%EC%9D%98%20github%20&height=200&fontSize=70&textBg=true)
 ## 안녕하세요! 🌟
 
 제 이름은 권경록이고, 주로 백엔드 개발을 하고 있습니다. 현재는 6개월 프로젝트 기반 자바 핀테크 웹 개발자 과정을 수료하며 다양한 기술을 습득하고 실습해보았습니다.
