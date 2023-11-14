@@ -17,7 +17,7 @@
 
 - Java
 - Spring Framework
-- 데이터베이스 (MySQL, MongoDB)
+- 데이터베이스 (ORACLE)
 - RESTful API 설계
 - 그 외 다양한 웹 기술들
 
