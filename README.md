@@ -10,10 +10,10 @@
 
 ### 💡 나의 철학
 
-상어가 앞으로 나아가지 않으면 죽는 것처럼, 나 또한 항상 새로운 도전을 통해 성장하고 발전하기를 원합니다. 마음가짐을 가지고 여러 기술들을 익히고 앞으로 나아가겠습니다.
+상어가 앞으로 나아가지 않으면 죽는 것처럼, 저 또한 항상 새로운 도전을 통해 성장하고 발전할 것입니다. 마음가짐을 가지고 여러 기술들을 익히고 앞으로 나아가겠습니다.
 
 ### 🛠️ 기술 스택
-
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
 - Java
 - Spring Framework
 - 데이터베이스 (ORACLE)
