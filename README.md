@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20%EA%B2%BD%EB%A1%9D%EC%9D%98%20github%20&height=200&fontSize=70&textBg=true)
 ## 안녕하세요! 🌟
 
-제 이름은 권경록이고, 주로 백엔드 개발을 하고 있습니다. 현재는 6개월 프로젝트 기반 자바 핀테크 웹 개발자 과정을 수료하며 다양한 기술을 습득하고 실습해보았습니다.
+제 이름은 권경록이며, 현재는 백엔드와 프론트엔드를 공부하며 주로 백엔드 개발에 몰두하고 있습니다. 최근에는 6개월 동안 진행한 프로젝트 기반 자바 핀테크 웹 개발자 과정을 성공적으로 마쳤습니다. 이 동안에는 다양한 기술들을 습득하고 실전 경험을 쌓아왔습니다.
+
+저는 개발에 대한 열정을 가지고 있으며, 새로운 기술을 배우는 것을 즐기고 있습니다. 깊이 있고 넓은 지식을 효과적으로 활용하여 혁신적이고 효율적인 솔루션을 찾는 것이 제 목표입니다. 노션을 활용하여 배웠던 내용들을 체계적으로 정리하고 있어, 지식을 계속해서 쌓아가고 있습니다.
+
+또한, 제가 개발한 어플리케이션이 클라이언트와 개발자 양쪽에서 인정받아 서비스를 제공하고, 회사와 함께 성장하는 것이 제 목표입니다. 지속적인 학습과 개선을 통해 더 나은 소프트웨어를 만들어내고, 사용자들에게 가치 있는 경험을 제공하는 것이 제 가치관입니다.
+
+앞으로도 끊임없는 도전과 성장을 통해, 협업과 혁신의 선두 주자가 되어 회사와 함께 발전해 나가고 싶습니다. 함께 일하게 된다면, 열정적이고 창의적인 개발자로서 최선을 다하겠습니다. 감사합니다.
 
 ### 🚀 경력 및 프로젝트
 
@@ -29,7 +35,6 @@
   <br>
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 
