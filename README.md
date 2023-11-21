@@ -51,7 +51,6 @@
 ### 📫 연락처
 
 - 이메일: kkr95101@naver.com
-- 전화번호: 010-3019-6882
 - 
 **Let's code together and make great things happen!** 🚀
 
