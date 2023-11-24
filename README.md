@@ -50,7 +50,7 @@
 
 ### 📫 연락처
 
-- 이메일: kkr95101@naver.com
+- 이메일: kkr95103@gmail.com
   <br>
 **Let's code together and make great things happen!** 🚀
 
